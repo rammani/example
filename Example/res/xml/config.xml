@@ -105,4 +105,5 @@
     <plugins>
     </plugins>
     <gap:plugin name="com.phonegap.plugins.barcodescanner" />
+    <plugin name="PushPlugin" value="com.plugin.gcm.PushPlugin" />
 </widget>
