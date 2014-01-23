@@ -104,4 +104,5 @@
     <!-- Deprecated plugins element. Remove in 3.0 -->
     <plugins>
     </plugins>
+    <gap:plugin name="com.phonegap.plugins.barcodescanner" />
 </widget>
